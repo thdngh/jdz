@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T08:28:43.999Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U15SA3INnkFkrUbnmA_a" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-27T08:29:47.883Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GJtFcUxNJBqBXN3gbf2e" version="20.7.4" type="github" pages="3">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="661" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -485,9 +485,6 @@
         <mxCell id="dnZlH7xyR83RFIniQMoo-6" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="318.25" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="dnZlH7xyR83RFIniQMoo-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="138" width="95" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="dnZlH7xyR83RFIniQMoo-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="450" width="91" height="77" as="geometry" />
         </mxCell>
@@ -540,9 +537,9 @@
             <mxPoint x="553" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnZlH7xyR83RFIniQMoo-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dnZlH7xyR83RFIniQMoo-7" target="dnZlH7xyR83RFIniQMoo-1">
+        <mxCell id="dnZlH7xyR83RFIniQMoo-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="wpgr_T4w7eNWs5vnKAc7-1" target="dnZlH7xyR83RFIniQMoo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="87.5" y="200.0000000000001" as="sourcePoint" />
             <mxPoint x="470" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -560,6 +557,9 @@
         </mxCell>
         <mxCell id="dnZlH7xyR83RFIniQMoo-38" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wpgr_T4w7eNWs5vnKAc7-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25.25" y="120" width="124.5" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
