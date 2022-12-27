@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T09:16:08.721Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_Lh5Gb6BdHXTDPXIeFZq" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:16:46.586Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9cxzsvHdQGHwqKwXgKif" version="20.7.4" type="github" pages="4">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -718,7 +718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="hầm" id="rS64lPyR90qWEVFDNdY4">
-    <mxGraphModel dx="2257" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="__KavK7SUfhwDn4YGhKR-0" />
         <mxCell id="__KavK7SUfhwDn4YGhKR-1" parent="__KavK7SUfhwDn4YGhKR-0" />
@@ -805,6 +805,9 @@
         </mxCell>
         <mxCell id="SnbUW7g9buBCZYudabiN-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=north" vertex="1" parent="__KavK7SUfhwDn4YGhKR-1">
           <mxGeometry x="920" y="80" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SnbUW7g9buBCZYudabiN-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=north;flipV=1;" vertex="1" parent="__KavK7SUfhwDn4YGhKR-1">
+          <mxGeometry x="920" y="440" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
