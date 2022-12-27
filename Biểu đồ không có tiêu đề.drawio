@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T07:30:05.168Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6YZ8wMT4MnGwkqXHnub1" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-27T07:31:14.441Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JQvTj5A45yg1ml6MVjUY" version="20.7.4" type="github" pages="2">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1220" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,26 +7,20 @@
         <mxCell id="vATExKD3N9hfjGAkF_zN-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="1000" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="vATExKD3N9hfjGAkF_zN-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="380" height="200" as="geometry" />
+        <mxCell id="vATExKD3N9hfjGAkF_zN-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="80" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="80" width="250" height="200" as="geometry" />
+          <mxGeometry x="330" y="80" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="605.46" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vATExKD3N9hfjGAkF_zN-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="510" width="54.49" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vATExKD3N9hfjGAkF_zN-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="385" width="54.49" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="380" width="250" height="200" as="geometry" />
+          <mxGeometry x="330" y="380" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="380" width="250" height="200" as="geometry" />
@@ -50,46 +44,46 @@
           <mxGeometry x="681.94" y="170" width="44.34" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-29" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="847.76" y="90" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="347.76" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923.17" y="90" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="423.16999999999996" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-31" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="90" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="500" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-32" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="220" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="500" y="220" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-33" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923.17" y="220" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="423.16999999999996" y="220" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-34" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="847.76" y="220" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="347.76" y="220" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vATExKD3N9hfjGAkF_zN-35" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="924.24" y="170" width="44.34" height="20" as="geometry" />
+          <mxGeometry x="424.24" y="170" width="44.34" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="847.76" y="390" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="347.76" y="390" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923.17" y="390" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="423.16999999999996" y="390" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-3" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="390" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="500" y="390" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="520" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="500" y="520" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923.17" y="520" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="423.16999999999996" y="520" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-6" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="847.76" y="520" width="45.41" height="50" as="geometry" />
+          <mxGeometry x="347.76" y="520" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="924.24" y="470" width="44.34" height="20" as="geometry" />
+          <mxGeometry x="424.24" y="470" width="44.34" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="606.17" y="390" width="45.41" height="50" as="geometry" />
@@ -114,6 +108,12 @@
         </mxCell>
         <mxCell id="ZI1mlzHtkUxuq9lY3uml-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairsRest;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1mlzHtkUxuq9lY3uml-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="90" width="45.41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1mlzHtkUxuq9lY3uml-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
