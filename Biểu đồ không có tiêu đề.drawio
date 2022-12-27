@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T09:27:26.392Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sH69Ku0qS2lXHI9gRAhE" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:45:31.520Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="m0Tg2Eqee2YGalnt_-qM" version="20.7.4" type="github" pages="4">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Page-1" id="ldDlQiwcp_6VIRCOgI3i">
-    <mxGraphModel dx="903" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-0" />
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-1" parent="DQVFQDhAbt4gxg6HrbMx-0" />
@@ -377,12 +377,6 @@
         </mxCell>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-6" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
           <mxGeometry x="659.65" y="470" width="44.34" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="887" y="90" width="45.41" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="997" y="90" width="45.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=-90;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
           <mxGeometry x="447.71000000000004" y="172.24" width="213.77" height="10" as="geometry" />
@@ -698,21 +692,6 @@
             <mxPoint x="785.0943556305798" y="690" as="sourcePoint" />
             <mxPoint x="959.1388867226972" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-102" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="583.88" y="461.38" width="18.99" height="38.62" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-103" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="512.63" y="455.69" width="18.99" height="38.62" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-104" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="518.21" y="157.93" width="18.99" height="38.62" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-105" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="590" y="160.17000000000002" width="18.99" height="38.62" as="geometry" />
-        </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-106" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="1023.4200000000001" y="256.38" width="18.99" height="38.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
