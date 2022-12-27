@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T09:07:37.752Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2eTZ6CuYcIjlRBGlxp9R" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:10:00.819Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JaoFX-nJ_m3n1QGcMP75" version="20.7.4" type="github" pages="4">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Page-1" id="ldDlQiwcp_6VIRCOgI3i">
-    <mxGraphModel dx="1354" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="260" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-0" />
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-1" parent="DQVFQDhAbt4gxg6HrbMx-0" />
@@ -402,17 +402,17 @@
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
           <mxGeometry x="57.709999999999994" y="190" width="240" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairs;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="127" y="485" width="170.71" height="95" as="geometry" />
+        <mxCell id="DQVFQDhAbt4gxg6HrbMx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairs;fillColor=none;flipH=1;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
+          <mxGeometry x="57" y="485" width="170.71" height="95" as="geometry" />
         </mxCell>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="97" y="474.48" width="200.71" height="10" as="geometry" />
+          <mxGeometry x="57" y="475" width="200.71" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DQVFQDhAbt4gxg6HrbMx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillColor=none;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="61" y="478" width="35.29" height="37.5" as="geometry" />
+        <mxCell id="DQVFQDhAbt4gxg6HrbMx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillColor=none;flipH=1;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
+          <mxGeometry x="257.71000000000004" y="477" width="35.29" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
-          <mxGeometry x="47" y="474.48" width="14" height="10" as="geometry" />
+          <mxGeometry x="293" y="475.01" width="14" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DQVFQDhAbt4gxg6HrbMx-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="DQVFQDhAbt4gxg6HrbMx-1">
           <mxGeometry x="107" y="70" width="190.71" height="10" as="geometry" />
@@ -718,7 +718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="hầm" id="rS64lPyR90qWEVFDNdY4">
-    <mxGraphModel dx="677" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="__KavK7SUfhwDn4YGhKR-0" />
         <mxCell id="__KavK7SUfhwDn4YGhKR-1" parent="__KavK7SUfhwDn4YGhKR-0" />
