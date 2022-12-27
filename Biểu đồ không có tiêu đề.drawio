@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T08:23:28.665Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Don88qJYA7UJz836vnSA" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-27T08:23:44.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Kifu26s-hgfiezC_dXj9" version="20.7.4" type="github" pages="3">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1586" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Page-1" id="vsWCs6eAoABcu6PkJK6v">
-    <mxGraphModel dx="661" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="547" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="JITH_MAHEN7aWF2EWypT-0" />
         <mxCell id="JITH_MAHEN7aWF2EWypT-1" parent="JITH_MAHEN7aWF2EWypT-0" />
@@ -407,6 +407,18 @@
         </mxCell>
         <mxCell id="JITH_MAHEN7aWF2EWypT-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap/16/badge-wc-128.png;fillColor=none;" vertex="1" parent="JITH_MAHEN7aWF2EWypT-1">
           <mxGeometry x="933.37" y="523.8800000000001" width="57.25" height="57.25" as="geometry" />
+        </mxCell>
+        <mxCell id="GJXqrLIgAt_0-s_Exc5c-0" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="JITH_MAHEN7aWF2EWypT-1">
+          <mxGeometry x="573.46" y="520" width="45.41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GJXqrLIgAt_0-s_Exc5c-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="JITH_MAHEN7aWF2EWypT-1">
+          <mxGeometry x="753.7" y="520" width="45.41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GJXqrLIgAt_0-s_Exc5c-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="JITH_MAHEN7aWF2EWypT-1">
+          <mxGeometry x="693.7" y="520" width="45.41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GJXqrLIgAt_0-s_Exc5c-3" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fillColor=none;" vertex="1" parent="JITH_MAHEN7aWF2EWypT-1">
+          <mxGeometry x="633.7" y="520" width="45.41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
