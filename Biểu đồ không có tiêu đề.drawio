@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T07:26:05.834Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tfu3xbCTEpT0t88wuewO" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-27T07:26:24.220Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p02LtDUoPrsF6Th8cYy9" version="20.7.4" type="github" pages="2">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1322" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dnZlH7xyR83RFIniQMoo-38" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="448.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
