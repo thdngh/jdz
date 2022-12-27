@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T09:26:21.943Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="grRb4Asv0tn9fqn7GrMl" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:27:26.392Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sH69Ku0qS2lXHI9gRAhE" version="20.7.4" type="github" pages="4">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -718,7 +718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="hầm" id="rS64lPyR90qWEVFDNdY4">
-    <mxGraphModel dx="796" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="__KavK7SUfhwDn4YGhKR-0" />
         <mxCell id="__KavK7SUfhwDn4YGhKR-1" parent="__KavK7SUfhwDn4YGhKR-0" />
@@ -841,6 +841,12 @@
         </mxCell>
         <mxCell id="Zrf_qOdyo3Kk_jfHhCLW-11" value="" style="image;html=1;image=img/lib/clip_art/people/Security_Woman_128x128.png;fillColor=none;" vertex="1" parent="__KavK7SUfhwDn4YGhKR-1">
           <mxGeometry x="952" y="472.12" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrf_qOdyo3Kk_jfHhCLW-12" value="" style="shape=mxgraph.cisco.misc.car;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rotation=-90;aspect=fixed;" vertex="1" parent="__KavK7SUfhwDn4YGhKR-1">
+          <mxGeometry x="690" y="351.44" width="80" height="42.9" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrf_qOdyo3Kk_jfHhCLW-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Motorcycle-128.png;fillColor=none;rotation=-90;" vertex="1" parent="__KavK7SUfhwDn4YGhKR-1">
+          <mxGeometry x="350" y="106.12" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
