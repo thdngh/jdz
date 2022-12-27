@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T15:23:13.537Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="K7PP2ZObvWNZyoC6qGAK" version="20.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-27T15:25:15.703Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wLJA0nowclopvecXVa4Q" version="20.7.4" type="github" pages="6">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1231" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="t2" id="sRqBUJ8qjN2b9Y2aPvZE">
-    <mxGraphModel dx="542" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="aGWDwo3WMcSGI9eSXAgu-0" />
         <mxCell id="aGWDwo3WMcSGI9eSXAgu-1" parent="aGWDwo3WMcSGI9eSXAgu-0" />
@@ -1504,10 +1504,19 @@
             <mxPoint x="949.2377210294705" y="389.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5MoJZzvBjmjv6YtFCxNu-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="xJtHtiJmmcxYFh_zIrw--1" source="5MoJZzvBjmjv6YtFCxNu-10" target="xJtHtiJmmcxYFh_zIrw--75">
+        <mxCell id="5MoJZzvBjmjv6YtFCxNu-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="xJtHtiJmmcxYFh_zIrw--1" source="5MoJZzvBjmjv6YtFCxNu-10" target="m0_Oug7nP3f4WKdQmQBL-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="500" as="sourcePoint" />
             <mxPoint x="760" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0_Oug7nP3f4WKdQmQBL-0" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="xJtHtiJmmcxYFh_zIrw--1">
+          <mxGeometry x="939.99" y="336.87" width="47" height="52.56" as="geometry" />
+        </mxCell>
+        <mxCell id="xNHpWArm9Unlsx94vIza-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xJtHtiJmmcxYFh_zIrw--1" source="xJtHtiJmmcxYFh_zIrw--75" target="m0_Oug7nP3f4WKdQmQBL-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="410" as="sourcePoint" />
+            <mxPoint x="790" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
